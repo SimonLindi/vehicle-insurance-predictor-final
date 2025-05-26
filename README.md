@@ -1,3 +1,7 @@
+### Disclaimer
+
+I have hade many problems with the installation of the right version and permission problems. The reason I took so long is that I did not know how to login in the hugging face acces that popped up for everything it is also the reason i made this new repository because i was not able to commit in the end.
+
 # Insurance Premium Prediction
 
 This project aims to predict vehicle insurance premiums based on vehicle characteristics and value development over time. The application uses a machine learning model trained on real-world insurance and automotive data, deployed via an interactive Gradio interface.
